@@ -17,7 +17,7 @@
   },
   "extra": {
     "branch-alias": {
-      "dev-master": "2.2.x-dev"
+      "dev-master": "2.0.x-dev"
     },
     "sconfig-plugin": {
       "console": "src/config/console.php",
