@@ -8,6 +8,7 @@
   "type": "library",
   "require": {
     "codexten/yii-web": "~2.0",
+    "codexten/app-admin-dev": "~2.0",
     "entero/entero-admin-module-user": "~2.0"
   },
   "autoload": {
