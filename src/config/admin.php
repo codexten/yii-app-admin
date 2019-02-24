@@ -44,7 +44,7 @@ return [
 //        ],
     ],
     'as globalAccess' => [
-        'class' => '\entero\behaviors\GlobalAccessBehavior',
+        'class' => '\codexten\yii\behaviors\GlobalAccessBehavior',
         'rules' => [
             [
                 'controllers' => ['site'],
