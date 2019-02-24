@@ -20,7 +20,7 @@
     "branch-alias": {
       "dev-master": "2.0.x-dev"
     },
-    "sconfig-plugin": {
+    "config-plugin": {
       "console": "src/config/console.php",
       "admin": [
         "$web",
