@@ -23,7 +23,7 @@
     "config-plugin": {
       "console": "src/config/console.php",
       "admin": [
-        "$web",
+        "$web", 
         "$adminModuleUser",
         "src/config/admin.php"
       ]
