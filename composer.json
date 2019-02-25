@@ -24,7 +24,7 @@
       "console": "src/config/console.php",
       "admin": [
         "$web", 
-        "$adminModuleUser",
+        "$moduleAuth",
         "src/config/admin.php"
       ]
     }
