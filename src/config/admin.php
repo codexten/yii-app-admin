@@ -7,6 +7,7 @@
  */
 
 return [
+    'name' => 'Admin',
     'aliases' => [
         '@dashboard' => '/dashboard/index',
     ],
